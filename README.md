@@ -17,6 +17,6 @@ nvim projetc/cargo.toml and add it as a local library
 ```
 
 ## 🚨 Warning 🚨
-**Warning do not use for actual encryption this is not a secure implementation it is purley an educational one**
+**Warning do not use for actual encryption**
 
 
